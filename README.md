@@ -2,18 +2,18 @@
 
 This repository contains the final working paper submitted for the course **"Multivariate Analysis for Social Scientists"** at the University of Milan (Third Term 2025), instructed by Dr. Andrea De Angelis.
 
-## 📌 Project Title
+## Project Title
 **Income and Smoking Behavior in Germany: A Multivariate Analysis Using ESS Data**
 
-## 🧠 Research Question
+## Research Question
 How does individual income influence smoking behavior in Germany, when controlling for age, gender, and education?
 
-## 📊 Methods
+## Methods
 - Binary logistic regression
 - Interaction effects (income × gender, income × education)
 - Visual and descriptive analysis using ESS Round 11 data (2022)
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File                          | Description                                      |
 |-------------------------------|--------------------------------------------------|
@@ -24,7 +24,7 @@ How does individual income influence smoking behavior in Germany, when controlli
 
 > **Note**: Raw ESS data is not included due to confidentiality restrictions.
 
-## 📦 Software & Packages
+## Software & Packages
 The analysis was conducted in R using packages including:
 - `tidyverse`
 - `ggplot2`
